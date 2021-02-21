@@ -1,11 +1,11 @@
 ############################### Banner ################################
 banner:
   enable : true
-  bg_image_webp : "images/backgrounds/hero-area.webp"
-  bg_image : "images/backgrounds/hero-area.jpg"
+  bg_image_webp : "images/backgrounds/ezgif-2-f77338a72236.webp"
+  bg_image : "images/backgrounds/sahand-hoseini-VrJnsLH2nOY-unsplash.jpg"
   icon : "" # themify icon pack : https://themify.me/themify-icons
-  title : "Experience the new reality"
-  content : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugit, excepturi. At recusandae sit perferendis autem,iste tempora nostrum numquam sapiente!"
+  title : "BazaarBank"
+  content : "What makes up a person's net worth today is radically different than ever before, we're providing a platform to manage at a glance and grow that net worth. What makes up your net worth?"
   button:
     enable : true
     label : "Explore Us"
